@@ -3,8 +3,7 @@
 Udacity Data Scientist Capstone Project
 
 
-STARBUCKS, Seattle HQ'ed global Coffee store giant, frequently provides offers to customers through via its mobile app to drive more sales. These offers can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). This project is focused on tailoring the promotional offers for customers based on their responses to the previous offers and predict the response of a customer to an offer.
-
+STARBUCKS, Seattle HQ'ed global Coffee store giant, frequently provides offers to customers through via its mobile app to drive more sales. These offers can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). This project is focused on tailoring the promotional offers for customers based on their responses to the previous offers and predict the response of a customer to an offer. 
 This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app.
 
 Here's an article posted on medium based on this analysis,
@@ -37,4 +36,5 @@ Jupyter Notebook
 
 ### Acknowledgement 
 UDACITY
+
 STARBUCKS
