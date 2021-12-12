@@ -28,7 +28,7 @@ Jupyter Notebook
 * seaborn
 * sklearn
 
-### Datasets (more details inside the .ipynb file)
+### Datasets (data.zip)
 
 * portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
 * profile.json - demographic data for each customer
