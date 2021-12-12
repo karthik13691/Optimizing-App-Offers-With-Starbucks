@@ -7,6 +7,7 @@ STARBUCKS, Seattle HQ'ed global Coffee store giant, frequently provides offers t
 This data set contains simulated data that mimics customer behavior on the Starbucks rewards mobile app.
 
 Here's an article posted on medium based on this analysis,
+
 https://medium.com/@karthikpselvam13/this-is-how-starbucks-decides-an-offer-for-you-b975770ba88a
 
 ### Motivation
